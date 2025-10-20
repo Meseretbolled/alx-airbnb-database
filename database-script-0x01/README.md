@@ -1,4 +1,5 @@
 # Airbnb Database Schema
+
 # Description
 This project defines the database schema for an Airbnb-like system that manages:
 - Users (hosts and guests)
